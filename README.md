@@ -1,5 +1,5 @@
 # SmartBrain - v1 
-Final project for ZTM course
+project
 
 1. Clone this repo
 2. Run `npm install`
@@ -103,5 +103,4 @@ Inside of FaceRecognition.js you will need to map through the array now:
 ```
 
 
-*visist https://zerotomastery.io/ for more*
 
